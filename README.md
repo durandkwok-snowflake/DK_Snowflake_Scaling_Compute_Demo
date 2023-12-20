@@ -60,4 +60,8 @@ Navigate back to the Admin/Warehouse Tab
 
 Execute the query one at a time
 <img width="1701" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/5b26549f-ef3f-478d-acc5-e619a34dbce9">
+Then check back to the Admin/Warehouse tab to it scaling out
+<img width="1442" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/b85f1168-4cc7-44d9-bc4c-db691593fea9">
+
+
 

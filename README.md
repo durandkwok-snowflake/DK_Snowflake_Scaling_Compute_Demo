@@ -68,4 +68,5 @@ Keep executing one query at a time and for each iteration, check the active numb
 <img width="1442" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/b85f1168-4cc7-44d9-bc4c-db691593fea9">
 
 
+Video
 

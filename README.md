@@ -7,7 +7,7 @@ The sample data set used in this query for this demo are provided in the SNOWFLA
 <img width="1704" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/bf6b896c-a9e5-4b27-89e0-625fb8dca1b9">
 <img width="509" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/98997499-70dc-4830-8f63-63a51a28a160">
 
-Make sure the warehouse is in suspend mode to flush out the cache and make sure the warehouse is not active
+### Make sure the warehouse is in suspend mode to flush out the cache and make sure the warehouse is not active
 
 <img width="1447" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/f2fc3532-6446-41bd-b83b-bf7512cc41b4">
 
@@ -17,7 +17,7 @@ Create five SQL worksheet tabs in Snowsight
 
 <img width="157" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/feecc512-90eb-4ba3-8ade-d17370930447">
 
-Each of the tabs corresponds to a session. So copy and paste the following code to each of the five tabs:
+### Each of the tabs corresponds to a session. So copy and paste the following code to each of the five tabs:
 
 
 <img width="1693" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/5ec16f1b-7b27-462d-8b7f-598d52d2d833">
@@ -54,23 +54,23 @@ ORDER BY
 
 ```
 
-Highlight the code and execute one at a time
+### Highlight the code and execute one at a time
 <img width="1690" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/8fcc8cbf-440d-4086-8d2c-5136db054392">
 
 
-Navigate back to the Admin/Warehouse Tab
+### Navigate back to the Admin/Warehouse Tab
 
 <img width="1677" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/f2f88b25-7acf-435b-b595-e777c7216419">
 
-Keep executing one query at a time and for each iteration, check the active number of warehouses
+### Keep executing one query at a time and for each iteration, check the active number of warehouses
 <img width="1701" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/5b26549f-ef3f-478d-acc5-e619a34dbce9">
 
 <img width="1442" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/b85f1168-4cc7-44d9-bc4c-db691593fea9">
 
-Cancel all the queries
+### Cancel all the queries
 <img width="1689" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/77b863b3-c136-410f-b158-76eb6a8cff50">
 
-All the clusters for the warehouse will suspend due to being inactive
+### All the clusters for the warehouse will suspend due to being inactive
 <img width="1447" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/b72be6a3-0d89-4375-84b3-6d47206b5d42">
 
 

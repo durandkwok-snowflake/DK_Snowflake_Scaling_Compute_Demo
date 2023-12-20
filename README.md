@@ -58,7 +58,7 @@ ORDER BY
 <img width="1690" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/8fcc8cbf-440d-4086-8d2c-5136db054392">
 
 
-### Navigate back to the Admin/Warehouse Tab
+### Navigate back to the Admin/Warehouse Tab to see the first active cluster
 
 <img width="1677" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/f2f88b25-7acf-435b-b595-e777c7216419">
 

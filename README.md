@@ -13,5 +13,7 @@ Make sure the warehouse is in suspend mode to flush out the cache
 
 -- Create five SQL worksheet tabs in Snowsight
 
+
+
 <img width="157" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/feecc512-90eb-4ba3-8ade-d17370930447">
 

@@ -8,7 +8,7 @@ Setup
 <img width="509" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/98997499-70dc-4830-8f63-63a51a28a160">
 
 
-
-
-use schema dt_schema;
+use database snowflake_sample_data;
+use schema tpch_sf1000;
+use warehouse voya_test;
 -- Create tables for products, orders, and order lines.

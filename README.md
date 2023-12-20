@@ -74,5 +74,3 @@ ORDER BY
 <img width="1447" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/b72be6a3-0d89-4375-84b3-6d47206b5d42">
 
 
-
-

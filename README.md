@@ -67,6 +67,12 @@ Keep executing one query at a time and for each iteration, check the active numb
 
 <img width="1442" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/b85f1168-4cc7-44d9-bc4c-db691593fea9">
 
+Cancel all the queries
+<img width="1689" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/77b863b3-c136-410f-b158-76eb6a8cff50">
 
-Video
+All the clusters for the warehouse will suspend due to being inactive
+<img width="1447" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/b72be6a3-0d89-4375-84b3-6d47206b5d42">
+
+
+
 

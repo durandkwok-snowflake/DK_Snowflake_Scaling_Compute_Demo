@@ -54,7 +54,7 @@ ORDER BY
 
 ```
 
-### Highlight the code and execute one at a time
+### Highlight the code and execute from the first tab
 <img width="1690" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/8fcc8cbf-440d-4086-8d2c-5136db054392">
 
 

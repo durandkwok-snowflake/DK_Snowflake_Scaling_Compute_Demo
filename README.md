@@ -24,8 +24,6 @@ Each of the tabs corresponds to a session. So copy and paste the following code 
 
 ```SQL
 
-```
-
 use database snowflake_sample_data;
 use schema tpch_sf1000;
 use warehouse voya_test;
@@ -53,6 +51,8 @@ GROUP BY
     p.p_partkey, p.p_name, p.p_brand, p.p_type, p.p_size
 ORDER BY
     p.p_partkey;
+
+```
 
 Highlight the code and execute one at a time
 <img width="1690" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/8fcc8cbf-440d-4086-8d2c-5136db054392">

@@ -62,7 +62,7 @@ ORDER BY
 
 <img width="1677" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/f2f88b25-7acf-435b-b595-e777c7216419">
 
-### Keep executing one query at a time and for each iteration, check the active number of warehouses
+### Keep executing one query at a time and for each iteration, check the number of active clusters
 <img width="1701" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/5b26549f-ef3f-478d-acc5-e619a34dbce9">
 
 <img width="1442" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/b85f1168-4cc7-44d9-bc4c-db691593fea9">

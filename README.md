@@ -1,5 +1,5 @@
 # DK_Snowflake_Scaling_Compute_Example
-Welcome to the Snowflake Compute Scaling Demo. This demo showcases how you can easily scale the compute in Snowflake.
+Welcome to the Snowflake Scaling Compute Demo. This demo showcases how you can easily scale the compute in Snowflake.
 The sample data set used in this query for this demo are provided in the SNOWFLAKE_SAMPLE_DATA shared database.
 
 ## Setup

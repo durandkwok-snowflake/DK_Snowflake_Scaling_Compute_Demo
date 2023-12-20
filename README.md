@@ -11,7 +11,7 @@ The sample data set used in this query for this demo are provided in the SNOWFLA
 
 <img width="1447" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/f2fc3532-6446-41bd-b83b-bf7512cc41b4">
 
-Create five SQL worksheet tabs in Snowsight
+### Create five SQL worksheet tabs in Snowsight
 
 
 

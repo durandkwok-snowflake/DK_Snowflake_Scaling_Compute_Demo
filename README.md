@@ -48,4 +48,9 @@ JOIN
 GROUP BY
     p.p_partkey, p.p_name, p.p_brand, p.p_type, p.p_size
 ORDER BY
-    p.p_partkey
+    p.p_partkey;
+
+Execute the query one
+
+<img width="1694" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/889c2d55-4831-4da7-8b6d-dfc84dcb0493">
+

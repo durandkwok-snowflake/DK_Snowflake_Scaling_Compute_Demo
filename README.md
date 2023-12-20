@@ -22,6 +22,7 @@ Each of the tabs corresponds to a session. So copy and paste the following code 
 
 <img width="1693" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/5ec16f1b-7b27-462d-8b7f-598d52d2d833">
 
+'''SQL
 use database snowflake_sample_data;
 use schema tpch_sf1000;
 use warehouse voya_test;

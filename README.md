@@ -54,8 +54,6 @@ Highlight the code and execute one at a time
 <img width="1690" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/8fcc8cbf-440d-4086-8d2c-5136db054392">
 
 
-<img width="1694" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/889c2d55-4831-4da7-8b6d-dfc84dcb0493">
-
 Navigate back to the Admin/Warehouse Tab
 
 <img width="1677" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/f2f88b25-7acf-435b-b595-e777c7216419">
@@ -66,4 +64,4 @@ Then check back to the Admin/Warehouse tab to it scaling out
 <img width="1442" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/b85f1168-4cc7-44d9-bc4c-db691593fea9">
 
 
-
+<img width="1694" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/889c2d55-4831-4da7-8b6d-dfc84dcb0493">

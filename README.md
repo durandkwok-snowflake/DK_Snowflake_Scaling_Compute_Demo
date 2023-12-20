@@ -16,6 +16,7 @@ Create five SQL worksheet tabs in Snowsight
 
 
 <img width="157" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/feecc512-90eb-4ba3-8ade-d17370930447">
+
 Each of the tabs corresponds to a session. So copy and paste the following code to each of the five tabs:
 use database snowflake_sample_data;
 use schema tpch_sf1000;

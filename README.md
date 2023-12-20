@@ -11,4 +11,6 @@ Make sure the warehouse is in suspend mode to flush out the cache
 
 <img width="1447" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/f2fc3532-6446-41bd-b83b-bf7512cc41b4">
 
--- Create tables for products, orders, and order lines.
+-- Create five SQL worksheet tabs in Snowsight
+<img width="157" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/feecc512-90eb-4ba3-8ade-d17370930447">
+

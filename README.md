@@ -11,4 +11,7 @@ Setup
 use database snowflake_sample_data;
 use schema tpch_sf1000;
 use warehouse voya_test;
+
+<img width="1447" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/f2fc3532-6446-41bd-b83b-bf7512cc41b4">
+
 -- Create tables for products, orders, and order lines.

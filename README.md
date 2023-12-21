@@ -10,7 +10,8 @@ The sample data set used in this query for this demo are provided in the SNOWFLA
 
 ### Make sure the warehouse is in suspend mode to flush out the cache and make sure the warehouse is not active
 
-<img width="1447" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/f2fc3532-6446-41bd-b83b-bf7512cc41b4">
+<img width="1418" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Scaling_Compute_Demo/assets/109616231/3d98c99e-e3a3-4305-a3b8-610ed5a232a8">
+
 
 ### Create five SQL worksheet tabs in Snowsight
 

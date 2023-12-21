@@ -65,8 +65,6 @@ ORDER BY
 ### Keep executing one query at a time and for each iteration, check the number of active clusters
 <img width="1432" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Scaling_Compute_Demo/assets/109616231/5493a8b1-d6b8-462b-abc1-7b308b9f9b65">
 
-<img width="1438" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Scaling_Compute_Demo/assets/109616231/f4793d00-f212-4e4d-9f68-9bbf5221768e">
-
 <img width="1417" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Scaling_Compute_Demo/assets/109616231/a882f62a-26bb-4a01-82e2-5aad253b6c7e">
 
 

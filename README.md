@@ -8,8 +8,6 @@ The sample data set used in this query for this demo are provided in the SNOWFLA
 
 <img width="503" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Scaling_Compute_Demo/assets/109616231/75f38e36-ac82-4601-a8c2-19582113d2a8">
 
-<img width="509" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/98997499-70dc-4830-8f63-63a51a28a160">
-
 ### Make sure the warehouse is in suspend mode to flush out the cache and make sure the warehouse is not active
 
 <img width="1447" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/f2fc3532-6446-41bd-b83b-bf7512cc41b4">

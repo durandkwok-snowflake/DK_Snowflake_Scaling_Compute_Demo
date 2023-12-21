@@ -74,6 +74,8 @@ ORDER BY
 <img width="1689" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/77b863b3-c136-410f-b158-76eb6a8cff50">
 
 ### All the clusters for the warehouse will suspend due to being inactive
-<img width="1447" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/b72be6a3-0d89-4375-84b3-6d47206b5d42">
+<img width="1431" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Scaling_Compute_Demo/assets/109616231/5c458ed8-f2c3-4f38-abc3-6446a065dded">
+
+
 
 

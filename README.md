@@ -63,9 +63,9 @@ ORDER BY
 <img width="1427" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Scaling_Compute_Demo/assets/109616231/12e41e3c-23b7-40a0-9356-6c3ebd84ab1b">
 
 ### Keep executing one query at a time and for each iteration, check the number of active clusters
-<img width="1701" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/5b26549f-ef3f-478d-acc5-e619a34dbce9">
+<img width="1432" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Scaling_Compute_Demo/assets/109616231/5493a8b1-d6b8-462b-abc1-7b308b9f9b65">
 
-<img width="1442" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/b85f1168-4cc7-44d9-bc4c-db691593fea9">
+<img width="1438" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Scaling_Compute_Demo/assets/109616231/f4793d00-f212-4e4d-9f68-9bbf5221768e">
 
 ### Cancel all the queries
 <img width="1689" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/77b863b3-c136-410f-b158-76eb6a8cff50">

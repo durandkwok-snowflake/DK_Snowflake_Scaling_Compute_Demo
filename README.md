@@ -19,7 +19,7 @@ The sample data set used in this query for this demo are provided in the SNOWFLA
 
 <img width="157" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/feecc512-90eb-4ba3-8ade-d17370930447">
 
-### Each of the tabs corresponds to a session. So copy and paste the following code to each of the five tabs:
+### Each of the tabs corresponds to a session. So copy and paste the following code to each of the six tabs:
 
 <img width="1693" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Scaling_Compute_Demo/assets/109616231/b56f7870-d2b7-4faa-bc63-1923ab8d5985">
 

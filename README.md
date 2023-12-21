@@ -67,6 +67,9 @@ ORDER BY
 
 <img width="1438" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Scaling_Compute_Demo/assets/109616231/f4793d00-f212-4e4d-9f68-9bbf5221768e">
 
+<img width="1417" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Scaling_Compute_Demo/assets/109616231/a882f62a-26bb-4a01-82e2-5aad253b6c7e">
+
+
 ### Cancel all the queries
 <img width="1689" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/77b863b3-c136-410f-b158-76eb6a8cff50">
 

@@ -21,8 +21,8 @@ The sample data set used in this query for this demo are provided in the SNOWFLA
 
 ### Each of the tabs corresponds to a session. So copy and paste the following code to each of the five tabs:
 
+<img width="1693" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Scaling_Compute_Demo/assets/109616231/b56f7870-d2b7-4faa-bc63-1923ab8d5985">
 
-<img width="1693" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/5ec16f1b-7b27-462d-8b7f-598d52d2d833">
 
 ```SQL
 

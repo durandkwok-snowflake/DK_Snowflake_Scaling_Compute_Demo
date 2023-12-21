@@ -28,7 +28,7 @@ The sample data set used in this query for this demo are provided in the SNOWFLA
 
 use database snowflake_sample_data;
 use schema tpch_sf1000;
-use warehouse voya_test;
+use warehouse scaling_test;
 
 ALTER SESSION SET USE_CACHED_RESULT = FALSE;
 

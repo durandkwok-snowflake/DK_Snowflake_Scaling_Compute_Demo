@@ -13,7 +13,7 @@ The sample data set used in this query for this demo are provided in the SNOWFLA
 <img width="1418" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Scaling_Compute_Demo/assets/109616231/3d98c99e-e3a3-4305-a3b8-610ed5a232a8">
 
 
-### Create five SQL worksheet tabs in Snowsight
+### Create six SQL worksheet tabs in Snowsight
 
 
 

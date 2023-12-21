@@ -57,12 +57,10 @@ ORDER BY
 ```
 
 ### Highlight the code and execute from the first tab
-<img width="1690" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/8fcc8cbf-440d-4086-8d2c-5136db054392">
-
+<img width="1690" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Scaling_Compute_Demo/assets/109616231/d75b0d60-0087-46bd-866b-df397bb0162a">
 
 ### Navigate back to the Admin/Warehouse Tab to see the first active cluster
-
-<img width="1677" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/f2f88b25-7acf-435b-b595-e777c7216419">
+<img width="1427" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Scaling_Compute_Demo/assets/109616231/12e41e3c-23b7-40a0-9356-6c3ebd84ab1b">
 
 ### Keep executing one query at a time and for each iteration, check the number of active clusters
 <img width="1701" alt="image" src="https://github.com/durandkwok-snowflake/DK_Snowflake_Compute_Scaling_Example/assets/109616231/5b26549f-ef3f-478d-acc5-e619a34dbce9">

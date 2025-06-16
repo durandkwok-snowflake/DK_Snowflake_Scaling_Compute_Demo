@@ -1,6 +1,6 @@
 use database snowflake_sample_data;
 use schema tpch_sf1000;
-use warehouse scaling_test;
+use warehouse SCALING_TEST_WH;
 
 ALTER SESSION SET USE_CACHED_RESULT = FALSE;
 

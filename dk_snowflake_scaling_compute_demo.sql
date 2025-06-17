@@ -4,6 +4,7 @@ use warehouse SCALING_TEST_WH;
 
 ALTER SESSION SET USE_CACHED_RESULT = FALSE;
 
+-- Change 3
 
 SELECT
     p.p_partkey,
